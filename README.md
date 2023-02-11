@@ -1,5 +1,5 @@
 # 💫 About Me:
-Medical Doctor <br>ALX Software engineering Student Cohort 11 (Nov 2022 - Nov 2023)<br>Studying this to move on to become a blockchain developer<br>Looking forward to build healthcare systems on the blockchain<br>Looking forward to be a household name in Healthcare Blockchain in Africa<br>Fun fact : I speak chinese and Japanese. Arigato<br>#CantStopWontStop
+Medical Doctor <br>ALX Software engineering Student Cohort 11 (Nov 2022 - Nov 2023)<br>Studying this to move on to become a blockchain developer<br>Looking forward to building healthcare systems on the blockchain<br>Looking forward to be a household name in Healthcare Blockchain in Africa<br>Fun fact : I speak chinese and Japanese. Arigato<br>#CantStopWontStop
 
 
 ## 🌐 Socials:
