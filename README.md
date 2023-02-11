@@ -25,6 +25,6 @@ Medical Doctor <br>ALX Software engineering Student Cohort 11 (Nov 2022 - Nov 20
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=drbenasmah&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=drbenasmah&icon=0&color=0)](https://visitcount.itsvg.in)[![](https://visitcount.itsvg.in/api?id=drbenasmah&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
